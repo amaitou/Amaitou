@@ -1,7 +1,7 @@
 
 ## Lelouche01 🦅
 
-✭ IT Development Student & Cyber Security Lover ✭
+✭ IT Development Student , Problem Solver & Cyber Security Lover ✭
 
 * My GitHub Stats
 
