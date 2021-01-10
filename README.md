@@ -1,7 +1,7 @@
 
 ## Lelouche01 🦅
 
-✭ IT Development Student , Problem Solver & Cyber Security Lover ✭
+✭ IT Development Student , Member of HKG , Problem Solver & Cyber Security Lover ✭
 
 * My GitHub Stats
 
