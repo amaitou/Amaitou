@@ -1,5 +1,5 @@
 
-## Lelouche01 🦅
+## Lelouche01
 
 ✭ IT Development Student , Leader of HKG , Problem Solver & Cyber Security Lover ✭
 
