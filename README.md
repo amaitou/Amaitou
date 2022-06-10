@@ -3,9 +3,7 @@
 
 ✭ IT Development Student , Leader of HKG , Problem Solver & Cyber Security Lover ✭
 
-* My GitHub Stats
+* GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelouche01&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelouche01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lelouche01&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelouche01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
