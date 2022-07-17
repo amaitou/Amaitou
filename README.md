@@ -1,9 +1,9 @@
 
 # Who am i
 
-Computer Science student at [1337](https://1337.ma/) <br />
-Software Development student at [ICTAP](http://ictap.ma/) <br />
-MEARN Stack Developer & Interested in Cybersecurity
+- Computer Science student at [1337](https://1337.ma/) <br />
+- Software Development student at [ICTAP](http://ictap.ma/) <br />
+- MEARN Stack Developer & Interested in Cybersecurity
 
 # Github Stats
 ---------------
