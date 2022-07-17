@@ -7,8 +7,7 @@
 
 
 <pre>
-
- <h2>__ Social Media __</h2>
+<h2>__ Social Media __</h2>
 ➤ <a href = "https://www.linkedin.com/in/amine01/">Linkedin</a>
 ➤ <a href = "https://twitter.com/Lelouche01">Twitter</a>
 ➤ <a href = "https://instagram.com/Lelouche0x1">Instagram</a>
