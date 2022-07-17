@@ -4,8 +4,6 @@
 > Computer Science student at [1337](https://1337.ma/) \
 > Software Development student at [ICTAP](http://ictap.ma/) \
 > MEARN Stack Developer & Interested in Cybersecurity
-
-
 <pre>
 <h2>Social Media</h2>
 ➤ <a href = "https://www.linkedin.com/in/amine01/">Linkedin</a>
