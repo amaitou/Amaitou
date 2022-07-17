@@ -1,14 +1,16 @@
 
-# Who am i
+## Who am i
 
 > Computer Science student at [1337](https://1337.ma/) \
 > Software Development student at [ICTAP](http://ictap.ma/) \
 > MEARN Stack Developer & Interested in Cybersecurity
 
+## Social
+
 <pre>
-<i class="fa-solid fa-right-long"></i> <a href = "https://www.linkedin.com/in/amine01/" target = "_blank">Linkedin</a>
-<i class="fa-solid fa-right-long"></i> <a href = "https://twitter.com/Lelouche01" target = "_blank">Twitter</a>
-<i class="fa-solid fa-right-long"></i> <a href = "https://instagram.com/Lelouche0x1" target = "_blank">Instagram</a>
+➤ <a href = "https://www.linkedin.com/in/amine01/" target = "_blank">Linkedin</a>
+➤ <a href = "https://twitter.com/Lelouche01" target = "_blank">Twitter</a>
+➤ <a href = "https://instagram.com/Lelouche0x1" target = "_blank">Instagram</a>
 </pre>
 
 ---------------
