@@ -8,7 +8,7 @@
 ## Social
 
 <pre>
-➤ <a href = "https://www.linkedin.com/in/amine01/" target = "_blank" style = "font-weight:bold">Linkedin</a>
+➤ <a href = "https://www.linkedin.com/in/amine01/" target = "_blank">Linkedin</a>
 ➤ <a href = "https://twitter.com/Lelouche01" target = "_blank">Twitter</a>
 ➤ <a href = "https://instagram.com/Lelouche0x1" target = "_blank">Instagram</a>
 </pre>
