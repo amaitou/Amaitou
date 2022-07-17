@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd">
 
 # Who am i
 
