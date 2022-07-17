@@ -7,9 +7,9 @@
 
 <pre>
 
-- <a href = "https://www.linkedin.com/in/amine01/" target = "_blank">Linkedin</a>
-- <a href = "https://twitter.com/Lelouche01" target = "_blank">Twitter</a>
-- <a href = "https://instagram.com/Lelouche0x1" target = "_blank">Instagram</a>
+<i class="fa-solid fa-right-long"></i> <a href = "https://www.linkedin.com/in/amine01/" target = "_blank">Linkedin</a>
+<i class="fa-solid fa-right-long"></i> <a href = "https://twitter.com/Lelouche01" target = "_blank">Twitter</a>
+<i class="fa-solid fa-right-long"></i> <a href = "https://instagram.com/Lelouche0x1" target = "_blank">Instagram</a>
 
 </pre>
 
