@@ -8,7 +8,7 @@
 
 <pre>
 
-## Social
+<h6>Who an i ?</h6>
 
 ➤ <a href = "https://www.linkedin.com/in/amine01/">Linkedin</a>
 ➤ <a href = "https://twitter.com/Lelouche01">Twitter</a>
