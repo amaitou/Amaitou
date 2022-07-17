@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd](https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd/tile)">
 
 # Who am i
 
