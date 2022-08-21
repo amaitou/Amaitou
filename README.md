@@ -11,16 +11,8 @@
 --➤ <a href = "https://twitter.com/amait0u">Twitter</a>
 --➤ <a href = "https://instagram.com/amait0u">Instagram</a>
 </pre>
----------------
-<pre>
-<h2>Front-end Projects</h2>
---➤ <a href = "https://amaitou.github.io/TrueFix/">TrueFix</a>
---➤ <a href = "https://amaitou.github.io/ExtraJuice">ExtraJuice</a>
---➤ <a href = "https://amaitou.github.io/OpenSchool">OpenSchool</a>
---➤ <a href = "https://amaitou.github.io/MicroOne">MicroOne</a>
---➤ <a href = "https://amaitou.github.io/HKG/">HKG</a>
-</pre>
 
 ---------------
+
 | [![amaitou's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
 |:-:|:-:|
