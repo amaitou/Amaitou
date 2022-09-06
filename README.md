@@ -1,11 +1,4 @@
 
----------------
-
-<div align = "center">
-    <img src = "https://i.pinimg.com/originals/58/7c/86/587c86809ea6064fafaf183ab7035440.gif"/>
-</div>
-
----------------
 # About me
 
 > Computer Science student at [1337](https://1337.ma/) \
