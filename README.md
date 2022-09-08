@@ -1,4 +1,7 @@
+![infinity-loop](https://user-images.githubusercontent.com/49293816/189139528-f5743d83-2ad7-478d-bd03-ef46048136dc.gif)
 
+
+------------
 # About me
 
 > Computer Science student at [1337](https://1337.ma/) \
