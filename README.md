@@ -24,6 +24,8 @@
 
 </div>
 
+------------
+
 # 42 Profile
 
 <div align="center">
@@ -31,4 +33,5 @@
 [![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42)
 
 </div>
----
+
+------------
