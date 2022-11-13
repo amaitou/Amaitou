@@ -24,4 +24,5 @@
 
 </div>
 
+[![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42)
 ---------------
