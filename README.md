@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42)
+[![amait-ou's 42 stats](https://badge.mediaplus.ma/Starryblue/amait-ou)](https://github.com/oakoudad/badge42)
 
 </div>
 
