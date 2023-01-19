@@ -4,7 +4,7 @@
 
 > Computer Science student at [1337](https://1337.ma/) \
 > Software Development student at [ICTAP](http://ictap.ma/) \
-> Software Engineer student at [ALX] (https://www.alxafrica.com/) \
+> Software Engineer student at [ALX](https://www.alxafrica.com/) \
 > MEARN Stack Developer & Interested in Cybersecurity
 
 ---------------
