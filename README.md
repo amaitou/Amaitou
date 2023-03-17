@@ -2,9 +2,6 @@
 ------------
 # About me
 
-> Computer Science student at [1337](https://1337.ma/) \
-> MEARN Stack Developer & Interested in Cybersecurity
-
 > Amine Ait Ouazghour is a 23-year-old software engineering student at [1337](https://1337.ma/) with a passion for web development and problem-solving. He is a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
 
 ---------------
