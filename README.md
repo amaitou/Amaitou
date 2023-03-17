@@ -5,6 +5,8 @@
 > Computer Science student at [1337](https://1337.ma/) \
 > MEARN Stack Developer & Interested in Cybersecurity
 
+> Amine Ait Ouazghour is a 23-year-old software engineering student at [1337](https://1337.ma/) with a passion for web development and problem-solving. He is a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
+
 ---------------
 
 | [![amaitou's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![amaitou's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
