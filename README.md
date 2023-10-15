@@ -1,5 +1,8 @@
+---
+![praveen-thirumurugan-KPAQpJYzH0Y-unsplash](https://github.com/amaitou/amaitou/assets/49293816/bd3af97f-7990-4adc-8c40-7576190e2008)
 
-------------
+---
+
 # About me
 
 > I'm Amine Ait Ouazghour, a 23-year-old software engineering student at [1337](https://1337.ma/) and [ALX](https://www.alxafrica.com/). My passion is web development and problem-solving. I am a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
@@ -9,7 +12,7 @@
 | [![amaitou's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![amaitou's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
 |:-:|:-:|
 
----------------
+---
 
 # Contact
 
@@ -22,4 +25,4 @@
 
 </div>
 
-------------
+---
