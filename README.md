@@ -5,7 +5,7 @@
 
 # About me
 
-> I'm Amine Ait Ouazghour, a 23-year-old software engineering student at [1337](https://1337.ma/) and [ALX](https://www.alxafrica.com/). My passion is web development and problem-solving. I am a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
+> I'm Amine Ait Ouazghour, a 24-year-old software engineering student at [1337](https://1337.ma/) and [ALX](https://www.alxafrica.com/). My passion is web development and problem-solving. I am a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
 
 <div align="center">
 
