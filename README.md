@@ -1,5 +1,5 @@
 ---
-![praveen-thirumurugan-KPAQpJYzH0Y-unsplash](https://github.com/amaitou/amaitou/assets/49293816/bd3af97f-7990-4adc-8c40-7576190e2008)
+![there-s-no-place-like-127-0-0-1-meme-pds88idzc1kmbbli](https://github.com/amaitou/amaitou/assets/49293816/a748a0ea-4a8e-4646-b9c8-41d072d8b8a0)
 
 ---
 
