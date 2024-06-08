@@ -44,7 +44,7 @@
 
 ### Github Stats
 
-> With these cards you can see the stats about my Github profile, (total number of starts, number of contributions ...etc)
+> With these cards you can see the stats about my Github profile, (total number of starts and PRs, number of commits ...etc)
 
 <br />
 
