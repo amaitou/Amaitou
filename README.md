@@ -44,7 +44,7 @@
 
 ### Github Stats
 
-> With these cards you can see the stats about my Github profile, (total number of starts and PRs, number of commits ...etc)
+> With these cards you can see the stats about my Github profile, (total number of starts and PRs, number of commits ...etc).
 
 <br />
 
@@ -59,6 +59,10 @@
 ### 42's Projects
 
 > Explore the projects from 42's Piscine and subsequent projects.
+
+| [![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42) | [![Giphy](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn) |
+|:-:|:-:|
+
 
 <br />
 
