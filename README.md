@@ -77,6 +77,6 @@
 
 - [42's Piscine](https://github.com/amaitou/1337/tree/master/Piscine-2022), [libft](https://github.com/amaitou/Libft), [ft_printf](https://github.com/amaitou/ft_printf), [Born2beRoot](https://github.com/amaitou/Born2beRoot), [get_next_line](https://github.com/amaitou/get_next_line), [Minitalk](https://github.com/amaitou/Minitalk), [push_swap](https://github.com/amaitou/push_swap), [so_long](https://github.com/amaitou/so_long), [Philosophers](https://github.com/amaitou/Philosophers), [Minishell](https://github.com/amaitou/Minishell), [NetPractice](https://github.com/amaitou/NetPractice), [CPP_Modules](https://github.com/amaitou/CPP-Modules), [Cub3D](https://github.com/amaitou/Cub3D), [Inception](https://github.com/amaitou/Inception), [Webserv](https://github.com/amaitou/Webserv)
 
-For more information about the Academy where I follow my studies feel free to check this repository [42/1337](https://github.com/amaitou/1337)
+For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/amaitou/1337)
 
 ---
