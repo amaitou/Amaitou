@@ -1,5 +1,13 @@
 ---
 ![there-s-no-place-like-127-0-0-1-meme-pds88idzc1kmbbli](https://github.com/amaitou/amaitou/assets/49293816/a748a0ea-4a8e-4646-b9c8-41d072d8b8a0)
+---
+
+### Overview
+
+- [About me](https://github.com/amaitou#about-me)
+- [Languages & Tools](https://github.com/amaitou#languages--tools)
+- [Github Stats](https://github.com/amaitou#github-stats)
+- [42's Projects](https://github.com/amaitou#42s-projects)
 
 ---
 
@@ -52,6 +60,7 @@
 
 | [![amaitou's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![amaitou's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
 |:-:|:-:|
+
 </div>
 
 ---
