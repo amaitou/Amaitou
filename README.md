@@ -39,12 +39,12 @@
   <table>
     <tr>
       <th>Category</th>
-      <td>Programming Languages</td>
-      <td>Markup Languages</td>
-      <td>Preprocessors and Frameworks</td>
+      <td>Programming</td>
+      <td>Markup</td>
+      <td>Frameworks</td>
       <td>Databases</td>
-      <td>Microservices</td>
-      <td>Project Management</td>
+      <td>DevOps</td>
+      <td>Management</td>
       <td>Design</td>
     </tr>
     <tr>
@@ -70,9 +70,11 @@
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+        <img src="https://img.shields.io/badge/-Google%20Docs-4285F4?style=flat-square&logo=google%20docs&logoColor=white" alt="Google Docs"/>
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
@@ -80,6 +82,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
