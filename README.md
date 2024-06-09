@@ -17,9 +17,8 @@
 
 > I'm Amine Ait Ouazghour, a 24-year-old software engineering student at [1337](https://1337.ma/). My passion is web development and problem-solving. I am a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
 
-<br />
-
 <div align="center">
+<h4>Get In Touch</h4>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitouazghouramine@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaitou/)
