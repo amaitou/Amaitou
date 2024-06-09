@@ -118,7 +118,7 @@
 <pre>
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/amaitou/1337/tree/master/Piscine-2022">Piscine 2021</a>
+├─◈ <a href="https://github.com/amaitou/1337/tree/master/Piscine-2022">Piscine 2022</a>
 ├─◈ <a href="https://github.com/amaitou/libft">libft</a>
 ├─◈ <a href="https://github.com/amaitou/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/amaitou/get_next_line">get_next_line</a>
