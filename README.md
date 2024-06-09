@@ -5,6 +5,7 @@
 ### Overview
 
 - [About me](https://github.com/amaitou#about-me)
+  - [Get In Touch](https://github.com/amaitou?tab=overview&from=2024-06-01&to=2024-06-09#get-in-touch)
 - [Languages & Tools](https://github.com/amaitou#languages--tools)
 - [Github Stats](https://github.com/amaitou#github-stats)
 - [42's Projects](https://github.com/amaitou#42s-projects)
