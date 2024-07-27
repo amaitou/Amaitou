@@ -109,7 +109,7 @@
 
 > Explore the projects from 42's Piscine and subsequent projects.
 
-| [![amait-ou's 42 stats](https://badge.mediaplus.ma/Binary/amait-ou)](https://github.com/oakoudad/badge42) | [![Giphy](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn) |
+| [![amait-ou's 42 stats](https://badge.mediaplus.ma/greenbinary/amait-ou)](https://github.com/oakoudad/badge42) | [![Giphy](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn) |
 |:-:|:-:|
 
 
