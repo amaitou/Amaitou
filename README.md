@@ -27,15 +27,7 @@
 
 </div>
 
----
-
-### Languages & Tools
-
-> Here are the programming languages I develop ideas with, as well as the tools & microservices I rely on.
-
-<br />
-
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <th>Programming</th>
@@ -89,24 +81,7 @@
   </table>
 </div>
 
-
-
----
-
-### Github Stats
-
-> With these cards you can see the stats about my Github profile, (total number of starts and PRs, number of commits ...etc).
-
-<br />
-
-<div align="center">
-
-| [![amaitou's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![amaitou's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
-|:-:|:-:|
-
-</div>
-
----
+--- -->
 
 ### 42's Projects
 
