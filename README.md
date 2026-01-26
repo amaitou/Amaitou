@@ -83,6 +83,8 @@
 
 --- -->
 
+---
+
 ### 42's Projects
 
 > Explore the projects from 42's Piscine and subsequent projects.
