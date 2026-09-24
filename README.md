@@ -1,7 +1,3 @@
----
-![there-s-no-place-like-127-0-0-1-meme-pds88idzc1kmbbli](https://github.com/amaitou/amaitou/assets/49293816/a748a0ea-4a8e-4646-b9c8-41d072d8b8a0)
----
-
 ### Overview
 
 - [About me](https://github.com/amaitou#about-me)
